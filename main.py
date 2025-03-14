@@ -63,3 +63,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    input("Presiona Enter para cerrar la ventana...")  # Agrega esta línea
